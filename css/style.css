@@ -1,0 +1,183 @@
+
+
+a {
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease; }
+  a, a:hover {
+    text-decoration: none !important; }
+
+.content {
+  height: 70vh;
+
+}
+
+.footer-20192 {
+  position: relative;
+  color: #fff;
+ 
+  padding: 7rem 0;
+  background-color: #0c0d0f; }
+  .footer-20192 .container {
+    position: relative; }
+  .footer-20192 h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    line-height: 1.5; }
+  .footer-20192 .links li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+    display: block; }
+    .footer-20192 .links li a {
+      color: #736666; }
+      .footer-20192 .links li a:hover {
+        color: #fff; }
+  .footer-20192 .social li {
+    display: inline-block;
+    position: relative; }
+    .footer-20192 .social li a {
+      position: relative;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+      background-color: #dc3545;
+      color: #fff; }
+      .footer-20192 .social li a > span {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%); }
+  .footer-20192 .footer-logo {
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: .1rem; }
+  .footer-20192 .copyright {
+    color: #736666; }
+  .footer-20192 .cta {
+    -webkit-box-shadow: -20px -20px 0 0 rgba(64, 52, 52, 0.2);
+    box-shadow: -20px -20px 0 0 rgba(175, 151, 151, 0.542);
+    padding: 20px;
+    background-color: #dc3545;
+    top: -150px;
+    position: relative; }
+    .footer-20192 .cta h2, .footer-20192 .cta h3 {
+      line-height: 1.5; }
+    .footer-20192 .cta h3 {
+      font-size: 20px; }
+
+
+      /* #main-moto {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 30rem;
+        width: 98vw;
+        
+        overflow: hidden;
+      }
+     #main-moto h1 {
+     
+        color: #333;
+        font-family: tahoma;
+        font-size: 3rem;
+        font-weight: 100;
+        line-height: 1.5;
+        text-transform: uppercase;
+        white-space: nowrap;
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+        left:50%;
+        transform: translateX(-50%);
+      }
+      
+      h1 span {
+        font-size: 40px;
+     
+      }
+      
+      .message {
+        background-color: #dc3545;
+        color: #333;
+        display: block;
+        font-weight: 900;
+        overflow: hidden;
+        position: absolute;
+        padding-left: 0.5rem;
+        top: 0.2rem;
+        left: 29rem;
+        animation: openclose 5s ease-in-out infinite;
+      }
+      
+      
+      @keyframes openclose {
+        0% {
+          top: 0.2rem;
+          width: 0;
+        }
+        5% {
+          width: 0;
+        }
+        15% {
+          width: 18rem;
+        }
+        30% {
+          top: 0.2rem;
+          width: 25rem;
+        }
+        33% {
+          top: 0.2rem;
+          width: 0;
+        }
+        35% {
+          top: 0.2rem;
+          width: 0;
+        }
+        38% {
+          top: -4.5rem;
+          
+        }
+        48% {
+          top: -4.5rem;
+          width: 20rem;
+        }
+        62% {
+          top: -4.5rem;
+          width: 20rem;
+        }
+        66% {
+          top: -4.5rem;
+          width: 0;
+          text-indent: 0;
+        }
+        71% {
+          top: -9rem;
+          width: 0;
+          text-indent: 5px;
+        }
+        86% {
+          top: -9rem;
+          width: 285px;
+        }
+        95% {
+          top: -9rem;
+          width: 285px;
+        }
+        98% {
+          top: -9rem;
+          width: 0;
+          text-indent: 5px;
+        }
+        100% {
+          top: 0;
+          width: 0;
+          text-indent: 0;
+        }
+      } */
