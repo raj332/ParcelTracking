@@ -2,9 +2,10 @@ const express = require("express");
 const app = express();
 const axios = require("axios");
 const cors = require("cors");
+const port = process.env.PORT || 3000;
 app.use(express.json());
 app.use(
-  cors({0
+  cors({
     origin: "*",
   })
 );
@@ -64,7 +65,7 @@ app.post("/fedex", (req, res) => {
   });
 });
 
-app.listen(3000);
+app.listen(port);
 
 
 
